@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "506879454650",
+    "firebase_url": "https://speedbazar-9ac28.firebaseio.com",
+    "project_id": "speedbazar-9ac28",
+    "storage_bucket": "speedbazar-9ac28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506879454650:android:caafc58a04f102b0cc0183",
+        "android_client_info": {
+          "package_name": "com.samulitfirstproject.speedbazar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506879454650-d946771viqvk5oh4qneno3fbci966dro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samulitfirstproject.speedbazar",
+            "certificate_hash": "8e0141c10f93e8d13a4808ffd1021b878ae12626"
+          }
+        },
+        {
+          "client_id": "506879454650-mfgv4gn7gknu54e0oc7m5ktqvi3nsb5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samulitfirstproject.speedbazar",
+            "certificate_hash": "9ecf0d0414fae19127d1f2dfd353a6fe1dafebd3"
+          }
+        },
+        {
+          "client_id": "506879454650-b371hird03o0tjsh5b226njvkiumshv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Q2V4I0xMhTS45dRoS1zdt1-R_vOAyGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506879454650-b371hird03o0tjsh5b226njvkiumshv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

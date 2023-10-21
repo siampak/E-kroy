@@ -1,2 +1,2 @@
 # E-kroy
- i am 
+ It is a e-commerce application.

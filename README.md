@@ -11,7 +11,8 @@ Discover the convenience of shopping with E-KROY today and let us take the stres
 
 
 Usage language, database & tools:
-Android Studio
-Java
-Firebase real-time & storage
-Material UI
+
+* Android Studio
+* Java
+* Firebase real-time & storage
+* Material UI
